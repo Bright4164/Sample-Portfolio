@@ -518,7 +518,7 @@ p {
 #contact .contact {
   flex-direction: column;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: -80px auto;
   width: 90%;
 }
 
